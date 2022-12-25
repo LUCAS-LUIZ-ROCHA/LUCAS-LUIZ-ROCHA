@@ -8,7 +8,7 @@
 
 ## Codar é um modo de pensar!
 <div style="display: flex; justify-content: space-between;"> <br>
-  <img align="left"height="250" alt="Programador_git" src="Programador_git.gif">
+  <img align="left"height="300" alt="Programador_git" src="Programador_git.gif">
    <h1 align="center">Melhores Tecnologias <3</h1>
   <img align="center" height="55" width="50" alt="python-icon"  src="py2_log.png">  
   <img align="center" height="50" width="50" alt="java-icon"  src="JV_log.png"> 
