@@ -6,65 +6,31 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUCAS-LUIZ-ROCHA&layout=compact&langs_count=16&theme=gotham"/>
 </div>
 
-## Codar é um modo de pensar
+## Codar é um modo de pensar!
 <div style="display: flex; justify-content: space-between;"> <br>
-  <img align="left"height="150" alt="coding-time" src="    ">
-  <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+  <img align="left"height="250" alt="Programador_git" src="Programador_git.gif">
+   <h1 align="center">Melhores Tecnologias <3</h1>
+  <img align="center" height="55" width="50" alt="python-icon"  src="py2_log.png">  
+  <img align="center" height="50" width="50" alt="java-icon"  src="JV_log.png"> 
+  <img align="center" height="50" width="50" alt="sql"  src="Sql_log.png"> 
+  <img align="center" height="50" width="50" alt="html"  src="Html_log.png"> 
+  <img align="center" height="50" width="50" alt="javaScript"  src="JS_log.png"> 
+  <img align="center" height="50" width="50" alt="css"  src="Css_log.png"> 
+
 </div>
 
-## Redes sociais
+
 <div>
-  <a href = "mailto: work.luigi.fonseca@gmail.com">
-    <img width="30" src="gmail.svg">
+  <h1 align="center">Redes Sociais</h1>
+  <a href = "mailto: work.lucasluiz_ads@hotmail.com">
+    <img width="30" src="outlook_log.png">
   </a>
-  <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
-    <img width="25" src="linkedin.svg">
+  <a href = "https://www.linkedin.com/in/lucas-luiz-rocha">
+    <img width="25" src="link_log.png">
   </a>
-  <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
-    <img width="35" src="youtube.svg">
-  </a>
-  <a href = "https://www.instagram.com/devparadev/">
-    <img width="25" src="instagram.png">
-  </a>
-
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LuigiGF&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
+ </div>
 <br>
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Melhores Tecnologias <3</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
-   </div>
 
-
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.luigi.fonseca@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
-      <img width="25" src="linkedin.svg">
-    </a>
-    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
-      <img width="35" src="youtube.svg">
-    </a>
-    <a href = "https://www.instagram.com/devparadev/">
-      <img width="25" src="instagram.png">
-    </a>
-</div>
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
