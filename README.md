@@ -22,7 +22,7 @@
 
 <div>
   <h1 align="center">Redes Sociais</h1>
-  <a href = "mailto: work.lucasluiz_ads@hotmail.com">
+  <a href = "mailto: lucasluiz_ads@hotmail.com">
     <img width="30" src="outlook_log.png">
   </a>
   <a href = "https://www.linkedin.com/in/lucas-luiz-rocha">
