@@ -17,9 +17,9 @@
 </div>
 <div style="display: flex; justify-content: space-between;"> <br>   
     <h1 align="center">Frameworks</h1>
-    <img align="center" height="50" width="70" alt="pandas"  src="pandas.png">
+    <img align="center" height="50" width="70" alt="pandas"  src="pd.png">
     <img align="center" height="50" width="70" alt="numpy"  src="numpy.png">
-    <img align="center" height="50" width="70" alt="matplot"  src="matplot.png">
+    <img align="center" height="50" width="70" alt="matplot"  src="mat.png">
     <img align="center" height="50" width="70" alt="sklearn"  src="sk.png">
     <img align="center" height="50" width="70" alt="tensorflow"  src="ts.png">
 </div>
