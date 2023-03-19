@@ -1,5 +1,5 @@
 
-## Ola!Sou Lucas Luiz, seja bem-vindo!
+## Ola! Sou Lucas Luiz, seja bem-vindo!
 
 <div >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LUCAS-LUIZ-ROCHA&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
@@ -10,10 +10,12 @@
 <div style="display: flex; justify-content: space-between;"> <br>
   <img align="left"height="300" alt="ia_ml" src="ia_ml.gif">
    <h1 align="center">Linguagens</h1>
-   <img align="center" height="55" width="50" alt="python-icon"  src="py2_log.png">  
+   <img align="center" height="55" width="50" alt="python-icon"  src="py2_log.png">
+   <br>
    <img align="center" height="50" width="50" alt="sql"  src="Sql_log.png"> 
    <br>
-   
+</div>
+<div style="display: flex; justify-content: space-between;"> <br>   
     <h1 align="center">Frameworks</h1>
     <img align="center" height="55" width="50" alt="pandas"  src="pandas.png">
     <img align="center" height="55" width="50" alt="numpy"  src="numpy.png">
