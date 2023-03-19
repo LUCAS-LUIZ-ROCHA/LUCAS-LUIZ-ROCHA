@@ -15,11 +15,11 @@
    <br>
    
     <h1 align="center">Frameworks</h1>
-    <img align="center" height="55" width="50" alt="pandas"  src="py2_log.png">
-    <img align="center" height="55" width="50" alt=""  src="py2_log.png">
-    <img align="center" height="55" width="50" alt="python-icon"  src="py2_log.png">
-
-
+    <img align="center" height="55" width="50" alt="pandas"  src="pandas.png">
+    <img align="center" height="55" width="50" alt="numpy"  src="numpy.png">
+    <img align="center" height="55" width="50" alt="matplot"  src="matplot.png">
+    <img align="center" height="55" width="50" alt="sklearn"  src="sklearn.png">
+    <img align="center" height="55" width="50" alt="tensorflow"  src="tensorflow.png">
 </div>
 
 
