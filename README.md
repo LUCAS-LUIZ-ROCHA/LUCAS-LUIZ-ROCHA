@@ -9,21 +9,27 @@
 ## 
 <div style="display: flex; justify-content: space-between;"> <br>
   <img align="left"height="300" alt="ia_ml" src="ia_ml.gif">
-   <h1 align="center">Melhores Tecnologias <3</h1>
-  <img align="center" height="55" width="50" alt="python-icon"  src="py2_log.png">  
-  <img align="center" height="50" width="50" alt="java-icon"  src="JV_log.png"> 
-  <img align="center" height="50" width="50" alt="sql"  src="Sql_log.png"> 
-  
+   <h1 align="center">Linguagens</h1>
+   <img align="center" height="55" width="50" alt="python-icon"  src="py2_log.png">  
+   <img align="center" height="50" width="50" alt="sql"  src="Sql_log.png"> 
+   <br>
+   
+    <h1 align="center">Frameworks</h1>
+    <img align="center" height="55" width="50" alt="pandas"  src="py2_log.png">
+    <img align="center" height="55" width="50" alt=""  src="py2_log.png">
+    <img align="center" height="55" width="50" alt="python-icon"  src="py2_log.png">
 
 
 </div>
 
 
 <div>
+  <br>
   <h1 align="center">Redes Sociais</h1>
   <a href = "mailto: lucasluiz_ads@hotmail.com">
     <img width="30" src="outlook_log.png">
   </a>
+  <br>
   <a href = "https://www.linkedin.com/in/lucas-luiz-rocha">
     <img width="25" src="link_log.png">
   </a>
