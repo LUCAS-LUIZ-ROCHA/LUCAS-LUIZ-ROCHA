@@ -20,8 +20,8 @@
     <img align="center" height="50" width="70" alt="pandas"  src="pandas.png">
     <img align="center" height="50" width="70" alt="numpy"  src="numpy.png">
     <img align="center" height="50" width="70" alt="matplot"  src="matplot.png">
-    <img align="center" height="50" width="70" alt="sklearn"  src="sklearn.png">
-    <img align="center" height="50" width="70" alt="tensorflow"  src="tensorflow.png">
+    <img align="center" height="50" width="70" alt="sklearn"  src="sk.png">
+    <img align="center" height="50" width="70" alt="tensorflow"  src="ts.png">
 </div>
 
 
