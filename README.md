@@ -1,12 +1,4 @@
-<div align="center">
-  <img height="400" src="CyberSecurity.gif"  />
-  
-</div>
 
-
-<div align="center">
-  [![LinkedIn]("https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")]("https://www.linkedin.com/in/lucas-luiz-rocha")
-  
  
 ###
 
@@ -18,9 +10,30 @@
 
 ###
 
-<p align="left">Eu sou Lucas Luiz Rocha, graduado em Análise e Desenvolvimento de Sistemas. Estou atuando como Dev Full Stack  freelancer na Pilha FARM, busco uma visão Full Cycle em sistemas, automações RPA, aplicações web e segurança cibernética.<br>Habilidades em Big data analytics, boas práticas de programação (PEP8), me desenvolvendo em TDD, LGPD, SOC, SIEM, PENTEST e Firewall.<br>Estou me especializando em Cyber Security buscando oportunidades e  parcerias para me desenvolver em Seguraça Cibernética e Programação.<br><br>- 👨‍💻 ⚛  Programação.<br>- 🧮 📈 Data Science<br>- 🛡️🔐  Cybersecurity</p>
+<p align="left">Eu sou Lucas Luiz Rocha, graduado em Análise e Desenvolvimento de Sistemas. Estou atuando como Dev Full Stack  freelancer na Pilha FARM, busco uma visão Full Cycle em sistemas, automações RPA, aplicações web e segurança cibernética.<br>Habilidades em Big data analytics, boas práticas de programação (PEP8), me desenvolvendo em TDD, LGPD, SOC, SIEM, PENTEST e Firewall.<br>Estou me especializando em Cyber Security buscando oportunidades e  parcerias para me desenvolver em Seguraça Cibernética e Programação.<br><br> 
+  
+-👨‍💻 ⚛  Programação. <summary>
+[Bot para Automação Whatsapp](https://github.com/LUCAS-LUIZ-ROCHA/bot_whatsapp-RPA)<br>
+[API - Cadastro de Jogadores |backend](https://github.com/LUCAS-LUIZ-ROCHA/Crud_Jogadores_Fullstack)<br>
+[API - Cadastro de Jogadores |frontend](https://github.com/LUCAS-LUIZ-ROCHA/Frontend_Crud_Jogadores_Fullstack)
+    </summary>
+    <br>
+    - 🧮 📈 Data Science. 
+    <br>- 🛡️🔐  Cybersecurity</p>
 
 ###
+<div align="center">
+  <img height="400" src="CyberSecurity.gif"  />
+  
+</div>
+
+
+<div align="center">
+  Acompanhe meu artigos e publicações no Linkedin 
+  <br>
+  <a href= "https://www.linkedin.com/in/lucas-luiz-rocha">
+  <img  height="40" src= "link_log.png"    /> 
+  <a/>
 
 <h3 align="left">🛠 Linguagens | Tecnologias</h3>
 
@@ -54,8 +67,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
+
 
 ###
