@@ -1,9 +1,8 @@
 <div align="center">
-  <img height="150" src=""  />
+  <img height="400" src="CyberSecurity.gif"  />
   
 </div>
--
-###
+
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -20,7 +19,7 @@
 
 ###
 
-<p align="left">Eu sou Lucas Luiz Rocha, graduado em Análise e Desenvolvimento de Sistemas. Estou atuando como Dev Full Stack  freelancer na Pilha FARM, com visão empreededora eu busco uma visão Full Cycle em sistemas, automações RPA, aplicações web e segurança cibernética.<br>Habilidades em Big data analytics, boas práticas de programação (PEP8), me desenvolvendo em TDD, LGPD, SOC, SIEM, PENTEST e Firewall.<br>Estou me especializando em Cyber Security buscando oportunidades e  parcerias para me desenvolver em Seguraça Cibernética e Programação.<br><br>- 👨‍💻 ⚛  Programação.<br>- 🧮 📈 Data Science<br>- 🛡️🔐  Cybersecurity</p>
+<p align="left">Eu sou Lucas Luiz Rocha, graduado em Análise e Desenvolvimento de Sistemas. Estou atuando como Dev Full Stack  freelancer na Pilha FARM, busco uma visão Full Cycle em sistemas, automações RPA, aplicações web e segurança cibernética.<br>Habilidades em Big data analytics, boas práticas de programação (PEP8), me desenvolvendo em TDD, LGPD, SOC, SIEM, PENTEST e Firewall.<br>Estou me especializando em Cyber Security buscando oportunidades e  parcerias para me desenvolver em Seguraça Cibernética e Programação.<br><br>- 👨‍💻 ⚛  Programação.<br>- 🧮 📈 Data Science<br>- 🛡️🔐  Cybersecurity</p>
 
 ###
 
