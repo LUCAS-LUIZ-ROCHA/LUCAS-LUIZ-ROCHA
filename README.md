@@ -29,7 +29,7 @@
 
 
 <div align="center">
-  Acompanhe meu artigos e publicações no Linkedin 
+  Acompanhe meus artigos e publicações no Linkedin 
   <br>
   <a href= "https://www.linkedin.com/in/lucas-luiz-rocha">
   <img  height="40" src= "link_log.png"    /> 
