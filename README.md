@@ -18,7 +18,12 @@
 [API - Cadastro de Jogadores |frontend](https://github.com/LUCAS-LUIZ-ROCHA/Frontend_Crud_Jogadores_Fullstack)
     </summary>
     <br>
-    - 🧮 📈 Data Science. 
+    - 🧮 📈 Data Science. <summary> 
+[Análise de dados - Viagens do setor público.](https://github.com/LUCAS-LUIZ-ROCHA/Analise_R_Viagens) <br>
+[Machine Learnig (Modelo Preditivo) - Previsão de um paciente adquirir diabetes.](https://github.com/LUCAS-LUIZ-ROCHA/ML_Preditivo_R)
+
+
+</summary>
     <br>- 🛡️🔐  Cybersecurity</p>
 
 ###
