@@ -19,6 +19,7 @@
     </summary>
     <br>
     - 🧮 📈 Data Science. <summary> 
+
 [Análise de dados - Viagens do setor público.](https://github.com/LUCAS-LUIZ-ROCHA/Analise_R_Viagens) <br>
 [Machine Learnig (Modelo Preditivo) - Previsão de um paciente adquirir diabetes.](https://github.com/LUCAS-LUIZ-ROCHA/ML_Preditivo_R)
 
