@@ -27,7 +27,7 @@
     - 🛡️🔐  Cybersecurity. 
 <br>
 
-[LL Scan | Port Scan personalizado.](https://github.com/LUCAS-LUIZ-ROCHA/LL_PortScan)
+[LL Scan |Criei um  Port Scan personalizado.](https://github.com/LUCAS-LUIZ-ROCHA/LL_PortScan)
 <br>
    
    
