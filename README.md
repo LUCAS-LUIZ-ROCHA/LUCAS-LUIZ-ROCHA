@@ -23,8 +23,9 @@
 [Machine Learnig (Modelo Preditivo) - Previsão de um paciente adquirir diabetes.](https://github.com/LUCAS-LUIZ-ROCHA/ML_Preditivo_R)
 
 
-    <br>
-    - 🛡️🔐  Cybersecurity. <br>
+<br>
+    - 🛡️🔐  Cybersecurity. 
+<br>
 [LL Scan | Port Scan personalizado.](https://github.com/LUCAS-LUIZ-ROCHA/LL_PortScan)<br>
    
    
