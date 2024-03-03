@@ -10,23 +10,26 @@
 
 ###
 
-<p align="left">Eu sou Lucas Luiz Rocha, graduado em Análise e Desenvolvimento de Sistemas. Estou atuando como Dev Full Stack  freelancer na Pilha FARM, busco uma visão Full Cycle em sistemas, automações RPA, aplicações web e segurança cibernética.<br>Habilidades em Big data analytics, boas práticas de programação (PEP8), me desenvolvendo em TDD, LGPD, SOC, SIEM, PENTEST e Firewall.<br>Estou me especializando em Cyber Security buscando oportunidades e  parcerias para me desenvolver em Seguraça Cibernética e Programação.<br><br> 
+<p align="left">Eu sou Lucas Luiz Rocha, graduado em Análise e Desenvolvimento de Sistemas. Estou atuando como Dev Full Stack  freelancer na Pilha FARM, busco uma visão Full Cycle em sistemas, automações RPA, aplicações web e segurança cibernética.<br>Habilidades em Big data analytics, boas práticas de programação (PEP8), me desenvolvendo em TDD, LGPD, SOC, SIEM, PENTEST e Firewall.<br>Estou me especializando em Cyber Security buscando oportunidades e  parcerias para me desenvolver em Seguraça Cibernética e Programação.<br>
+ 
+ Click para acessar o portfolio:<br>
+  
   
 -👨‍💻 ⚛  Programação. <br>
-[Bot para Automação Whatsapp](https://github.com/LUCAS-LUIZ-ROCHA/bot_whatsapp-RPA)<br>
-[API - Cadastro de Jogadores |backend](https://github.com/LUCAS-LUIZ-ROCHA/Crud_Jogadores_Fullstack)<br>
-[API - Cadastro de Jogadores |frontend](https://github.com/LUCAS-LUIZ-ROCHA/Frontend_Crud_Jogadores_Fullstack)
-    <br>
-    - 🧮 📈 Data Science. <br>
+[APP Mobile - Cadastro de Produtos | React - Native | Android](https://github.com/LUCAS-LUIZ-ROCHA/appMobile_Cadastro) <br>
 
+[Bot para Whatsapp | RPA - Automação](https://github.com/LUCAS-LUIZ-ROCHA/bot_whatsapp-RPA) <br>
 
-[Análise de dados - Viagens do setor público.](https://github.com/LUCAS-LUIZ-ROCHA/Analise_R_Viagens) <br>
-[Machine Learnig (Modelo Preditivo) - Previsão de um paciente adquirir diabetes.](https://github.com/LUCAS-LUIZ-ROCHA/ML_Preditivo_R)
+[API - Cadastro de Jogadores |backend](https://github.com/LUCAS-LUIZ-ROCHA/Crud_Jogadores_Fullstack) <br>
 
+[API - Cadastro de Jogadores |frontend](https://github.com/LUCAS-LUIZ-ROCHA/Frontend_Crud_Jogadores_Fullstack) <br>
+    
+-🧮 📈 Data Science. <br>
+[Análise de dados | Viagens do setor público.](https://github.com/LUCAS-LUIZ-ROCHA/Analise_R_Viagens)<br>
 
-<br>
-    - 🛡️🔐  Cybersecurity. 
-<br>
+[Machine Learnig | Previsão de um paciente adquirir diabetes](https://github.com/LUCAS-LUIZ-ROCHA/ML_Preditivo_R)<br>
+
+-🛡️🔐  Cybersecurity.<br> 
 
 [LL Scan |Criei um  Port Scan personalizado.](https://github.com/LUCAS-LUIZ-ROCHA/LL_PortScan)
 <br>
