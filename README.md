@@ -74,6 +74,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" height="40" alt="debian logo"  />
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUCAS-LUIZ-ROCHA)](https://github.com/LUCAS-LUIZ-ROCHA/github-readme-stats)
+
 </div>
 
 ###
