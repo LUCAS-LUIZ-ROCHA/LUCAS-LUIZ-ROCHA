@@ -31,7 +31,15 @@
 
 -🛡️🔐  Cybersecurity.<br> 
 
-[LL Scan |Criei um  Port Scan personalizado.](https://github.com/LUCAS-LUIZ-ROCHA/LL_PortScan)
+[LL Scan |Criei um  Port Scanner personalizado.](https://github.com/LUCAS-LUIZ-ROCHA/LL_PortScan)
+<br>
+<br>
+-📖📚 Click para acessar livros de cybersecurity. <br>
+[Firewalls | Fortinet | VPN](https://github.com/LUCAS-LUIZ-ROCHA/ALL-FIREWALLS) 
+<br>
+[SIEM (Security Incidenct and Event Management) | SOC ( Security Operations Center)](https://github.com/LUCAS-LUIZ-ROCHA/SIEM-Security-Incidenct-and-Event-Management-) 
+<br>
+[ EH (Ethical Hacking) | PENTEST (Penetration Testing)](https://github.com/LUCAS-LUIZ-ROCHA/EH-Ethical-Hacking-PENTEST-Penetration-Testing-)
 <br>
    
    
