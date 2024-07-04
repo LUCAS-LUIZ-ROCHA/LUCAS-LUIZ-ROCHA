@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Eu sou Lucas Luiz Rocha, graduado em Análise e Desenvolvimento de Sistemas. Estou atuando como Dev Full Stack  freelancer, busco uma visão Full Cycle em sistemas, automações RPA, aplicações web e segurança cibernética.<br>Habilidades em Big data analytics, boas práticas de programação (PEP8. Conhecimentos em  LGPD, SOC, SIEM, PENTEST e Firewall.<br>Estou me especializando em Cyber Security cursando pós graduação em Ethical Hacking e Cybersecurity.  Busco oportunidades e  parcerias em Segurança Cibernética e Programação.<br>
+<p align="left">Sou um entusiasta da tecnologia, apaixonado por programação e com uma grande dedicação em me especializar em cybersecurity. Com formação em programação e uma crescente expertise em segurança cibernética, estou me pós graduando em MBA em Cybersecurity e Cybercrimes, concluído algumas certificações. Busco constantemente aprimorar minhas habilidades e conhecimentos para desenvolver e proteger sistemas e dados de forma eficaz. Estou sempre em busca de desafios e oportunidades de crescimento profissional na intersecção entre programação e cybersecurity.<br>
  
  Click para acessar o portfolio:<br>
   
