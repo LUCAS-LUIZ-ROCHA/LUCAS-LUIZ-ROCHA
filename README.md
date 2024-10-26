@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Sou um entusiasta da tecnologia, apaixonado por programação e com uma grande dedicação em me especializar em cybersecurity. Com formação em programação e uma crescente expertise em segurança cibernética, estou me pós graduando em MBA em Cybersecurity e Cybercrimes, concluído algumas certificações. Busco constantemente aprimorar minhas habilidades e conhecimentos para desenvolver e proteger sistemas e dados de forma eficaz. Estou sempre em busca de desafios e oportunidades de crescimento profissional na intersecção entre programação e cybersecurity.<br>
+<p align="left">Sou um entusiasta da tecnologia, apaixonado por programação e com uma grande dedicação e especializado em cybersecurity. Com formação em programação e uma crescente expertise em segurança cibernética, estou me pós graduando em MBA em Cybersecurity e Cybercrimes, concluído algumas certificações. Busco constantemente aprimorar minhas habilidades e conhecimentos para desenvolver e proteger sistemas e dados de forma eficaz. Estou sempre em busca de desafios e oportunidades de crescimento profissional na intersecção entre programação e cybersecurity.<br>
  
  Click para acessar o portfolio:<br>
   
