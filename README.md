@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Sou um entusiasta da tecnologia, apaixonado por programação e com uma grande dedicação e especializado em cybersecurity. Com formação em programação e uma crescente expertise em segurança cibernética. Busco constantemente aprimorar minhas habilidades e conhecimentos para desenvolver e proteger sistemas e dados de forma eficaz. Estou sempre em busca de desafios e oportunidades de crescimento profissional na intersecção entre programação e cybersecurity.<br>
+<p align="left">Sou um entusiasta da tecnologia, apaixonado por engenharia de software, programação e segurança da informação. Tenho formação em desenvolvimento de sistemas e venho aprimorando minha especialização em cybersecurity e DFIR (Digital Forensics and Incident Response). Busco constantemente expandir meus conhecimentos para projetar, desenvolver e proteger sistemas e dados de forma eficiente. Estou sempre em busca de desafios e oportunidades que unam engenharia de software, programação avançada e cibersegurança aplicada à resposta a incidentes.<br>
  
  Click para acessar o portfolio:<br>
   
