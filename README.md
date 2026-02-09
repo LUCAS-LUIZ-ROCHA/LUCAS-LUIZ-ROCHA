@@ -15,8 +15,11 @@
  Click para acessar o portfolio:<br>
   
   
--👨‍💻 ⚛  Programação. <br>
-[Landing page da **Hermon Regularização Imobiliária** | Flask + Bootstrap5](https://github.com/LUCAS-LUIZ-ROCHA/siteHermon). <br>
+-👨‍💻 ⚛  Programação | Engenharia de Software. <br>
+
+[Meu Site Pessoal & Portfólio | Flask + Bootstrap5](https://github.com/LUCAS-LUIZ-ROCHA/Site_Pessoal/tree/producao). <br>
+
+[Landing Page da **Hermon Regularização Imobiliária** | Flask + Bootstrap5](https://github.com/LUCAS-LUIZ-ROCHA/siteHermon). <br>
 
 [APP Mobile - Cadastro de Produtos | React - Native | Android](https://github.com/LUCAS-LUIZ-ROCHA/appMobile_Cadastro) <br>
 
