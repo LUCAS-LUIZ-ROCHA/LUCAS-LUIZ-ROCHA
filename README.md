@@ -10,33 +10,46 @@
 
 ###
 
-<p align="left">Sou um entusiasta da tecnologia, apaixonado por engenharia de software, programação e segurança da informação. Tenho formação em desenvolvimento de sistemas e venho aprimorando minha especialização em cybersecurity e DFIR (Digital Forensics and Incident Response). Busco constantemente expandir meus conhecimentos para projetar, desenvolver e proteger sistemas e dados de forma eficiente. Estou sempre em busca de desafios e oportunidades que unam engenharia de software, programação avançada e cibersegurança aplicada à resposta a incidentes.<br>
+<p align="left">Sou um entusiasta de novas tecnologia, apaixonado por engenharia de software, programação e segurança da informação. Tenho me aprimorado em desenvolvimento de sistemas e aplicações, possuo  especialização em cybersecurity e DFIR (Digital Forensics and Incident Response). Busco constantemente expandir meus conhecimentos para projetar, desenvolver e proteger sistemas e dados de forma eficiente. Estou sempre em busca de desafios e oportunidades que unam engenharia de software, programação avançada e cibersegurança aplicada à resposta a incidentes.<br>
  
  Click para acessar o portfolio:<br>
   
   
--👨‍💻 ⚛  Programação | Engenharia de Software. <br>
+-👨‍💻 ⚛  **ENGENHARIA DE SOFTWARE | DEV** <br>
+<br>
+**LANDING PAGE 🌐 | FLASK + BOOTSTRAP5 | PROJETOS REAIS PARA CLIENTES** <br>
+[Meu Site Pessoal & Portfólio | Flask + Bootstrap5](https://github.com/LUCAS-LUIZ-ROCHA/Site_Pessoal/tree/producao) <br>
 
-[Meu Site Pessoal & Portfólio | Flask + Bootstrap5](https://github.com/LUCAS-LUIZ-ROCHA/Site_Pessoal/tree/producao). <br>
-
-[Landing Page da **Hermon Regularização Imobiliária** | Flask + Bootstrap5](https://github.com/LUCAS-LUIZ-ROCHA/siteHermon). <br>
-
-[APP Mobile - Cadastro de Produtos | React - Native | Android](https://github.com/LUCAS-LUIZ-ROCHA/appMobile_Cadastro) <br>
-
+[Landing Page da **Hermon Regularização Imobiliária** | Flask + Bootstrap5](https://github.com/LUCAS-LUIZ-ROCHA/siteHermon) <br>
+<br>
+<br>
+**AUTOMAÇÃO RPA 🤖 | EXEMPLO PARA UM CLIENTE REAL** <br>
 [Bot para Whatsapp | RPA - Automação](https://github.com/LUCAS-LUIZ-ROCHA/bot_whatsapp-RPA) <br>
-
+<br>
+<br>
+**DEV. MOBILE 📲 | REACT NATIVE**<br>
+[APP Mobile - Cadastro de Produtos | React - Native | Android](https://github.com/LUCAS-LUIZ-ROCHA/appMobile_Cadastro) <br> 
+<br>
+<br>
+**API-REST P/ PLATAFORMA GAMER 🎮 | STACK FARM (FASTAPI + REACT + MONGO DB)** <br>
 [API - Cadastro de Jogadores |backend](https://github.com/LUCAS-LUIZ-ROCHA/Crud_Jogadores_Fullstack) <br>
-
 [API - Cadastro de Jogadores |frontend](https://github.com/LUCAS-LUIZ-ROCHA/Frontend_Crud_Jogadores_Fullstack) <br>
+<br>
+<br>
     
--🧮 📈 Data Science. <br>
+-🧮 📈 **DATA SCIENCE** <br>
+<br>
+**ANÁLISE E TRATAMENTO DE DADOS 📊 | LINGUAGEM ®️** <br>
 [Análise de dados | Viagens do setor público.](https://github.com/LUCAS-LUIZ-ROCHA/Analise_R_Viagens)<br>
-
+<br>
+**MACHINE LEARNING 🦾 | ANÁLISE PREDITIVA PARA DIAGNÓSTICO DE DIABETES** <br>
 [Machine Learnig | Previsão de um paciente adquirir diabetes](https://github.com/LUCAS-LUIZ-ROCHA/ML_Preditivo_R)<br>
+<br>
+<br>
 
--🛡️🔐  Cybersecurity.<br> 
-
+-🛡️🔐  **CYBERSECURITY 🛠️ | DESENVOLVENDO MINHAS PRÓPRIAS FERRAMENTAS** <br> 
 [LL Scan |Criei um  Port Scanner personalizado.](https://github.com/LUCAS-LUIZ-ROCHA/LL_PortScan)
+<br>
 <br>
 <br>
 -📖📚 Click para acessar livros de cybersecurity. <br>
