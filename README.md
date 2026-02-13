@@ -17,6 +17,11 @@
   
 -👨‍💻 ⚛  **ENGENHARIA DE SOFTWARE | DEV** <br>
 <br>
+**SAAS PARA EMPRESA DO SETOR IMOBILIÁRIO 🏘️ | C# .NET + ANGULAR.JS - 🔄 EM CONSTRUÇÃO** <br>
+[Construção de um sitema completo para cadastrar imovéis e acompanhar sua regularização](https://github.com/LUCAS-LUIZ-ROCHA/Saashermon) <br>
+<br>
+<br>
+
 **LANDING PAGE 🌐 | FLASK + BOOTSTRAP5 | PROJETOS REAIS PARA CLIENTES** <br>
 [Meu Site Pessoal & Portfólio | Flask + Bootstrap5](https://github.com/LUCAS-LUIZ-ROCHA/Site_Pessoal/tree/producao) <br>
 
